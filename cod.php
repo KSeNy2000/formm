@@ -4,7 +4,7 @@ $name = $_POST['name'];
 $phone = $_POST['phone'];
 
 // Указываем адрес электронной почты, на который будем отправлять письмо
-$to = "test@gmail.com";
+$to = "Kseniaamf@icloud.com";
 
 // Указываем заголовки письма
 $headers = "MIME-Version: 1.0\r\n";
