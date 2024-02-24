@@ -3,6 +3,7 @@
 $name = $_POST['name'];
 $phone = $_POST['phone'];
 
+$email_address = "Kseniaamf@icloud.com";
 // Указываем адрес электронной почты, на который будем отправлять письмо
 $to = "Kseniaamf@icloud.com";
 
